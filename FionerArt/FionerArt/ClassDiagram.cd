@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FionerArt.MailSender" Collapsed="true">
+    <Position X="12.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MailSender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Program" Collapsed="true">
+    <Position X="14" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.SqlBaglantisi" Collapsed="true">
+    <Position X="15.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SqlBaglantisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.FrmYoneticiNotlar" Collapsed="true">
+    <Position X="12.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACBACAEgAMIAAiAgEASQAAAyBsACAQAIAQACAI=</HashCode>
+      <FileName>Forms\FrmYoneticiNotlar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.FrmYoneticiGirisi" Collapsed="true">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iDiDADAG/D8OgCKDAQyGERACYAACAEwCGAgBcGYzCAw=</HashCode>
+      <FileName>Forms\FrmYoneticiGirisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.FrmOgrenciGirisi" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iCCBBAAC/DcIgCKBAA2EEBACIAACAEwCECgBQDYQGAQ=</HashCode>
+      <FileName>Forms\FrmOgrenciGirisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmYoneticiSubeler" Collapsed="true">
+    <Position X="10.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAAAIIAACKgQACYIADJBDAKAAIAHAAAAA=</HashCode>
+      <FileName>Forms\FrmYoneticiSubeler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmYoneticiPersonel" Collapsed="true">
+    <Position X="8.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAiAAiAkgIMLAAiCgUASQACQ/BtADAAIJAAAAAI=</HashCode>
+      <FileName>Forms\FrmYoneticiPersonel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmYoneticiOnlineEgitimler" Collapsed="true">
+    <Position X="17.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAEgAIIAAiAgEASQAAAUBiBCAAAIAAAAAI=</HashCode>
+      <FileName>Forms\FrmYoneticiOnlineEgitimler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmYoneticiOgrenciBilgileri" Collapsed="true">
+    <Position X="14.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAEgBFAAAiAACASQAAAyAuACAAAIAAACAA=</HashCode>
+      <FileName>Forms\FrmYoneticiOgrenciBilgileri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmYoneticiOdeme" Collapsed="true">
+    <Position X="14" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAICAgCAAAAIOgADCgYADQAAHJBjACIAAAjiAAAA=</HashCode>
+      <FileName>Forms\FrmYoneticiOdeme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmYoneticiKurslar" Collapsed="true">
+    <Position X="8.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAACAAAAIIAACCgAASQIADRBHACAAIADCAAAA=</HashCode>
+      <FileName>Forms\FrmYoneticiKurslar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmYoneticiKursiyerler" Collapsed="true">
+    <Position X="8.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAiAAjAEgIIIIAiAgUASQACQ/BsATAAIJAAAAAo=</HashCode>
+      <FileName>Forms\FrmYoneticiKursiyerler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmYoneticiKurs" Collapsed="true">
+    <Position X="17.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACEAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\FrmYoneticiKurs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmYoneticiIstatistik" Collapsed="true">
+    <Position X="14" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wAAAAsAACIACQ8AAACaDQACAAKAvgtYJAhAAwB/FiA=</HashCode>
+      <FileName>Forms\FrmYoneticiIstatistik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmYoneticiEgitmenler" Collapsed="true">
+    <Position X="12.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAiAAiAEgIOIAAiCgUASQACQ/BtADACIJAEACAI=</HashCode>
+      <FileName>Forms\FrmYoneticiEgitmenler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmYoneticiDuyurular" Collapsed="true">
+    <Position X="8.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACBACAEoAIIAAiAgGAWRAAAwBsACAAAIAAAAAI=</HashCode>
+      <FileName>Forms\FrmYoneticiDuyurular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmYoneticiCharts" Collapsed="true">
+    <Position X="8.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAGgASAAAAIAAACAAAACAAAAgAsAAABAAQAAAAA=</HashCode>
+      <FileName>Forms\FrmYoneticiCharts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmStok" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAUgAIIAAiIgEASQAAAwBsAiAAAIAAEAAI=</HashCode>
+      <FileName>Forms\FrmStok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmSifremiUnuttum" Collapsed="true">
+    <Position X="12.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAACADAUAAAAAACAAAADAAAgAAkEAAwAIAIAAAA=</HashCode>
+      <FileName>Forms\FrmSifremiUnuttum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmOgrenciYapayZeka" Collapsed="true">
+    <Position X="14.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAQACAAAAOAAACAAAACAAAIAACAACAQAABAAAA=</HashCode>
+      <FileName>Forms\FrmOgrenciYapayZeka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmOgrenciOnlineEgitimler" Collapsed="true">
+    <Position X="12.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAIAIIAACAAAACAAAAAgAACAAAAAAAAAA=</HashCode>
+      <FileName>Forms\FrmOgrenciOnlineEgitimler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmOgrenciOgrenciBilgileri" Collapsed="true">
+    <Position X="8.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAiAAiAECIIgQAiAAUACQCAQ/BsATCgIJAABAAg=</HashCode>
+      <FileName>Forms\FrmOgrenciOgrenciBilgileri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmOgrenciMalzemeOnerisi" Collapsed="true">
+    <Position X="8.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAYAEAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\FrmOgrenciMalzemeOnerisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmOgrenciDuyurular">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAAAIIAACAAAACAAAAAQgADAAAAAAAAAA=</HashCode>
+      <FileName>Forms\FrmOgrenciDuyurular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmOgrenciCizimFikirleri">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAIAAACAAAACAAAEAAAAACAQAEgAAAA=</HashCode>
+      <FileName>Forms\FrmOgrenciCizimFikirleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FionerArt.Forms.FrmOgrenciBizeUlasin">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAAAAAACBAAACAAAAAAAAAAAQAAAAAAg=</HashCode>
+      <FileName>Forms\FrmOgrenciBizeUlasin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
